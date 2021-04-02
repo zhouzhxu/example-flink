@@ -1,0 +1,6 @@
+hello world
+hello kafka
+hello flink
+how are you
+warning error
+sensor reading
